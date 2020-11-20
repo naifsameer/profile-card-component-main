@@ -1,5 +1,8 @@
 # code by  Naif Sameer
 
+# visit the website
+[profile card component](https://naif-sameer.github.io/profile-card-component-main/index.html)
+
 
 # Frontend Mentor - Profile card component
 
