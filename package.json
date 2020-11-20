@@ -1,0 +1,12 @@
+{
+  "name": "profile-card-component-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass" : "node-sass -w --output-style compressed --source-map ture style.scss style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
