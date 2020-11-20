@@ -1,5 +1,4 @@
-# code by 
-## Naif Sameer
+# code by  Naif Sameer
 
 
 # Frontend Mentor - Profile card component
