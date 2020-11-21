@@ -1,3 +1,5 @@
+@import url("https://fonts.google.com/specimen/Kumbh+Sans");
+
 *,
 *::before,
 *::after {
@@ -62,6 +64,7 @@ body {
   background-color: $primary-color;
   background-size: cover;
   font-size: 18px;
+  font-family: 'Kumbh Sans', 'Lucida Sans', sans-serif;
   color: hsl(229, 23%, 23%);
 }
 
