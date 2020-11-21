@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass" : "node-sass -w --output-style compressed --source-map true style.scss style.css"
+    "sass" : "node-sass -w --output-style compressed --source-map true css/style.scss css/style.css"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
